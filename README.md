@@ -1,8 +1,6 @@
 # esx_status_health-armor
 FiveM Script - ESX Status - Health & Armor | Status will be saved in Databse and restore after Relog
 
-**Forum:** https://forum.cfx.re/t/release-esx-armor-script-usable-armor-vests-status-will-be-saved-in-databse/4812243
-
 **Discord Support:** https://discord.gg/5hHSBRHvJE
 
 ## Description
